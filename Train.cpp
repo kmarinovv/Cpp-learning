@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    //vector<int> myVector;   
+    cout<<"hello"<<endl; 
     
     return 0;
 }   
