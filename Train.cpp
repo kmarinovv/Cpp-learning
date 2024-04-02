@@ -1,10 +1,12 @@
 #include <iostream>
+#include <vector>
+
 
 using namespace std;
 
 int main()
 {
-    cout<<"Lets start the fun"<<endl;
+    //vector<int> myVector;   
     
     return 0;
-}
+}   
